@@ -17,7 +17,7 @@
 apply plugin: 'com.android.library'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.github.chenBingX'
+group='com.github.icloud-jxy'
 
 android {
     compileSdkVersion 21
